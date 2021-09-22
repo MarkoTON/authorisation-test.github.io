@@ -1,6 +1,6 @@
 <template>
   <div>
-    Secret
+    navbar
   </div>
 </template>
 
